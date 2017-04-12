@@ -5,7 +5,7 @@
     <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{40227946-c9aa-4403-b520-0e8c3742a9e3}</ProjectGuid>
+    <ProjectGuid>{636b6914-f2a3-41a4-a0fd-9e769154de73}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Core</RootNamespace>
     <AssemblyName>Core</AssemblyName>
